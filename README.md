@@ -3,8 +3,6 @@
 Um jogo de plataforma completo e interativo inspirado no clássico **Super Mario**, desenvolvido com **React**, **Next.js** e **TypeScript**.  
 Apresenta física realista, inimigos inteligentes, sistema de pontuação, e múltiplos níveis com progressão de dificuldade.
 
-![Super Mario Game](https://placeholder.svg?height=400&width=800&query=super+mario+platformer+game+screenshot)
-
 ---
 
 ## ✨ **Principais Recursos**
